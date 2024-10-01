@@ -17,6 +17,7 @@ Ref.: LeCun et al., Gradient-Based Learning Applied to Document Recognition, 199
   <img src="https://github.com/user-attachments/assets/416bd201-6ae4-4d0d-8340-f9064cee8ca9" width="400" height="250" style="display: inline-block;" />
 </div>
   在pattern_processing 中，由於模擬生成的pattern 沒有符合電路SRAM 擺放的設定，必須要把原有的pattern 轉成相對應的格式
+  
 * Hardware
 
   ![image](https://github.com/user-attachments/assets/9a6bfb1c-da7d-4c54-9917-1df2b483c3d0)
