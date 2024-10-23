@@ -20,8 +20,13 @@ Ref.: LeCun et al., Gradient-Based Learning Applied to Document Recognition, 199
   
 * Hardware
 
-  ![image](https://github.com/user-attachments/assets/9a6bfb1c-da7d-4c54-9917-1df2b483c3d0)
+  ![image](https://github.com/user-attachments/assets/647fee80-cd94-44cb-ac6b-d956b9eb5bf6)
+
   電路採用8個pe 來達到 data reuse ，在每6個 cycle 中，會完成8個矩陣運算，經過兩次maxpool，產生兩個output
+
+  ![image](https://github.com/user-attachments/assets/75153f78-8083-4d02-9fce-1f864a61c473)
+
+  其中pe 採用pipeline 來減少critial path
   
   ![image](https://github.com/user-attachments/assets/174c8385-8aef-4ade-ae33-a402d2179d36)
   
