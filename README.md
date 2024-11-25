@@ -31,6 +31,10 @@ Ref.: LeCun et al., Gradient-Based Learning Applied to Document Recognition, 199
   ![image](https://github.com/user-attachments/assets/174c8385-8aef-4ade-ae33-a402d2179d36)
   
   在sim 中 使用test.sh 來測試99個個img，搭配lenet_tb.sv來完成 vcs模擬
+* FSM
+  
+  ![image](https://github.com/user-attachments/assets/d0e0dbcc-2d71-4d9e-acd0-637b2a83f27c)
+
 
   |  Performance   |   | Unit |   
   |  :----:  | :----:  |   :----:  |
